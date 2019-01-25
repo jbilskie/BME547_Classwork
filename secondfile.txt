@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello there, everyone!
+=======
+# HEADER
+
+## SUBHEADER
+
+blah blah
+>>>>>>> ea0dd7c81705f518bfde100b1e10cfcbe522333b
